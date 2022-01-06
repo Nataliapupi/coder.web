@@ -1,4 +1,4 @@
-$colorfondo: grey;
+$colorfondo: white;
 @mixin colorletra {
   color: black;
   font-size: larger;
@@ -54,8 +54,8 @@ input {
   color: black;
 }
 .tamanoLogo {
-  height: 12%;
-  width: 12%;
+  height: 30%;
+  width:30%;
   @extend .marpad;
 }
 .marpad {

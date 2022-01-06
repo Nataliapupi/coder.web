@@ -5,18 +5,18 @@
 
 body {
   font-size: larger;
-  background-color: grey;
+  background-color: white;
   color: black;
 }
 
 main {
-  background-color: grey;
+  background-color: white;
   margin: 0px;
   padding: 0px;
 }
 
 header {
-  background-color: grey;
+  background-color: white;
 }
 
 input {
@@ -42,7 +42,7 @@ input {
   margin: 0 !important;
 }
 #galeria img:hover {
-  border: 5px solid #ff968a;
+  border: 5px solid white;
 }
 
 .colorLabel {
@@ -100,7 +100,7 @@ section {
   color: white;
 }
 .fondoPrecios {
-  background-color: #f4fab4;
+  background-color: white;
 }
 .tituloMain {
   font-family: "Italianno", serif;
@@ -126,18 +126,18 @@ section {
   font-size: 100%;
 }
 .contactameFondo {
-  background-color: #f7cae7;
+  background-color: white;
 }
 .formContactos {
   text-align: center;
   justify-content: center;
 }
 .fondoProyectos {
-  background-color: #95fab9;
+  background-color: white;
 }
 .fondoTrabajo {
-  background-color: #ff968a;
+  background-color: white;
 }
 .fondoIndex {
-  background-color: #a0d2f3;
+  background-color: white;
 }
